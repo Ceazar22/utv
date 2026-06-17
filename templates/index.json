@@ -1,0 +1,532 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "image_yiEkMk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/snow_banner_2.jpg",
+            "mobile_image": "shopify://shop_images/1_ac0cadc0-6471-4083-b1ae-874d90894b2b.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 30,
+            "text_color": "#e8e8e8",
+            "title": "",
+            "content": "",
+            "content_position": "bottom_center",
+            "button_background": "#d15327",
+            "button_text_color": "#ffffff",
+            "button_text": "Get Ready for Winter",
+            "link": "https://utvwarehouse.com/collections/snow-1"
+          }
+        },
+        "image_MPy9EB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/mx_banner.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 50,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "bottom_center",
+            "button_background": "#d15327",
+            "button_text_color": "#ffffff",
+            "button_text": "Dominate The Dirt And Conquer Challenging Trails",
+            "link": "https://utvwarehouse.com/collections/bmx-mtb"
+          }
+        },
+        "2e18fbb2-491b-45b1-a2a2-bdea9e0a7928": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bmx_banner.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 50,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "bottom_center",
+            "button_background": "#d15327",
+            "button_text_color": "#ffffff",
+            "button_text": "Get Ready For Adventure",
+            "link": "shopify://collections/bmx-mtb"
+          }
+        },
+        "image_e47LxX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-09-24_211624.png",
+            "show_overlay": true,
+            "overlay_opacity": 100,
+            "text_color": "#f7f5f5",
+            "title": "",
+            "content": "",
+            "content_position": "bottom_center",
+            "button_background": "#d15327",
+            "button_text_color": "#ffffff",
+            "button_text": "Get Your Camso Tracks Ready for Winter",
+            "link": "shopify://collections/camso"
+          }
+        }
+      },
+      "block_order": [
+        "image_yiEkMk",
+        "image_MPy9EB",
+        "2e18fbb2-491b-45b1-a2a2-bdea9e0a7928",
+        "image_e47LxX"
+      ],
+      "disabled": true,
+      "settings": {
+        "edge_to_edge": true,
+        "section_size": "preserve_ratio",
+        "carousel_effect": "fade",
+        "autoplay": true,
+        "cycle_speed": 6
+      }
+    },
+    "custom_hero_banner_rzyta8": {
+      "type": "custom-hero-banner",
+      "name": "UTV Hero Banner",
+      "settings": {
+        "banner_image": "shopify://shop_images/Frame_1000008493.png",
+        "rating_score": "4.9/5.0",
+        "badges_text": "10,000+ Products Sold • Rider-Approved • 10 Years Strong",
+        "headline": "Guaranteed Fit Accessories For Your UTV",
+        "subtext": "Shop <strong>1,000+ gear sets</strong> for dirt, snow, street, and off-road. Mix and match across Fox Racing, Fly Racing, Alpinestars, and more.",
+        "cta_label": "Shop Now",
+        "cta_url": "",
+        "shop_url": ""
+      }
+    },
+    "shop_by_sports_j97drm": {
+      "type": "shop-by-sports",
+      "blocks": {
+        "sport_card_iyXUUn": {
+          "type": "sport_card",
+          "settings": {
+            "image": "shopify://shop_images/Frame_1000008276_64359bfa-80b3-4809-9d9b-76872178ff33.png",
+            "title": "MX/ENDURO",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "cta_label": "SHOP NOW",
+            "cta_url": ""
+          }
+        },
+        "sport_card_z3Mbhc": {
+          "type": "sport_card",
+          "settings": {
+            "image": "shopify://shop_images/Frame_1000008279_2e1374e1-6feb-4356-bdb1-9cc532021cb3.png",
+            "title": "BMX/MTB",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "cta_label": "SHOP NOW",
+            "cta_url": ""
+          }
+        },
+        "sport_card_Ankida": {
+          "type": "sport_card",
+          "settings": {
+            "image": "shopify://shop_images/Frame_1000008280_240581da-a486-4589-94c7-ec0798240899.png",
+            "title": "COLD-WEATHER RIDING GEAR",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "cta_label": "SHOP BIBS, JACKETS, HELMETS",
+            "cta_url": ""
+          }
+        },
+        "sport_card_Pzd7f4": {
+          "type": "sport_card",
+          "settings": {
+            "image": "shopify://shop_images/Frame_1000008276_1.png",
+            "title": "STREET",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "cta_label": "SHOP NOW",
+            "cta_url": ""
+          }
+        },
+        "sport_card_w4bPmA": {
+          "type": "sport_card",
+          "settings": {
+            "image": "shopify://shop_images/Frame_1000008279_1.png",
+            "title": "CASUAL",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "cta_label": "SHOP NOW",
+            "cta_url": ""
+          }
+        },
+        "sport_card_rWwLTM": {
+          "type": "sport_card",
+          "settings": {
+            "image": "shopify://shop_images/Frame_1000008280_1.png",
+            "title": "TIRES/WHEELS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "cta_label": "SHOP NOW",
+            "cta_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "sport_card_iyXUUn",
+        "sport_card_z3Mbhc",
+        "sport_card_Ankida",
+        "sport_card_Pzd7f4",
+        "sport_card_w4bPmA",
+        "sport_card_rWwLTM"
+      ],
+      "name": "Shop By Sport",
+      "settings": {
+        "eyebrow": "FIND YOUR RIDE",
+        "heading": "SHOP BY SPORT",
+        "subheading": "Pick your discipline and find gear built for exactly how you ride."
+      }
+    },
+    "1761704018a1bbd483": {
+      "type": "_blocks",
+      "settings": {}
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "deals",
+        "title": "What Riders Are Buying",
+        "eyebrows": "TOP RATED GEAR",
+        "text": "Our top-rated gear trusted by 50,000+ riders",
+        "mobile_text": "",
+        "mobile_top_text": "",
+        "products_count": 10,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "View all",
+        "link_url": "shopify://collections/deals"
+      }
+    },
+    "custom_logo_6fE8dB": {
+      "type": "custom-logo",
+      "blocks": {
+        "logo_EPrULr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_20.png",
+            "logo_alt": "Brand logo"
+          }
+        },
+        "logo_w8iai4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_13.png",
+            "logo_alt": "Brand logo"
+          }
+        },
+        "logo_J6k8Ft": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_16.png",
+            "logo_alt": "Brand logo"
+          }
+        },
+        "logo_BGpJi3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_14.png",
+            "logo_alt": "Brand logo"
+          }
+        },
+        "logo_wGnQFJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_15.png",
+            "logo_alt": "Brand logo"
+          }
+        },
+        "logo_qdijag": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_17.png",
+            "logo_alt": "Brand logo"
+          }
+        },
+        "logo_aeW4Ln": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_12.png",
+            "logo_alt": "Brand logo"
+          }
+        },
+        "logo_QWxHTk": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_18.png",
+            "logo_alt": "Brand logo"
+          }
+        },
+        "logo_GKPUPd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image_19.png",
+            "logo_alt": "Brand logo"
+          }
+        }
+      },
+      "block_order": [
+        "logo_EPrULr",
+        "logo_w8iai4",
+        "logo_J6k8Ft",
+        "logo_BGpJi3",
+        "logo_wGnQFJ",
+        "logo_qdijag",
+        "logo_aeW4Ln",
+        "logo_QWxHTk",
+        "logo_GKPUPd"
+      ],
+      "name": "Authorized Dealer Logos",
+      "settings": {
+        "heading": "AUTHORIZED DEALER",
+        "heading_color": "#d15327",
+        "bg_color": "#ffffff",
+        "logo_filter": "grayscale(100%)",
+        "marquee_speed": 30
+      }
+    },
+    "featured_collection_YNjVh8": {
+      "type": "featured-collection",
+      "custom_css": [
+        "{padding-left: 30px;}",
+        ".section__action-link {padding-right: 20px;}"
+      ],
+      "settings": {
+        "collection": "backcountry-access-avalanche-airbags",
+        "title": "Top Snowmobile Gear Right Now",
+        "eyebrows": "",
+        "text": "",
+        "mobile_text": "",
+        "mobile_top_text": "",
+        "products_count": 10,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "View all",
+        "link_url": "shopify://collections/deals"
+      }
+    },
+    "upsell_neAKL3": {
+      "type": "upsell",
+      "custom_css": [
+        "{margin-bottom: 40px;}"
+      ],
+      "name": "Hero Split Banner",
+      "settings": {
+        "padding_top": 300,
+        "padding_bottom": 40,
+        "first_col_width": "55",
+        "show_product_cards": false,
+        "bg_image": "shopify://shop_images/Frame_1000008489_296f3470-3ed2-4ca9-9a38-9eee4dfeb1d9.png",
+        "bg_fallback": "#111111",
+        "bg_position": "center center",
+        "overlay_opacity": 0,
+        "overlay_color": "#ffffff",
+        "heading": "Your Ride. Your Track. Winter-Ready.",
+        "heading_color": "#ffffff",
+        "description": "Push further. Ride harder. Stay protected. Engineered for performance, comfort, and confidence — so nothing holds you back from the road ahead.",
+        "description_color": "#cccccc",
+        "btn1_label": "FIND THE PERFECT KIT",
+        "btn1_url": "",
+        "btn1_bg": "#d15327",
+        "btn1_text": "#ffffff",
+        "btn2_label": "BROWSE CAMSO DEALS",
+        "btn2_url": "",
+        "btn2_bg": "#0d0d0d",
+        "btn2_border": "#0d0d0d",
+        "btn2_text": "#ffffff",
+        "p1_title": "Camso 4S1 UTV Track System",
+        "p1_url": "",
+        "p1_review_score": "5.0",
+        "p1_review_count": "37",
+        "p1_price": "$6,599",
+        "p2_title": "Camso X4S ATV/UTV Track Kit",
+        "p2_url": "",
+        "p2_review_score": "5.0",
+        "p2_review_count": "37",
+        "p2_price": "$5,049"
+      }
+    },
+    "featured_collection_MH7qcx": {
+      "type": "featured-collection",
+      "custom_css": [
+        "{padding-left: 30px;}",
+        ".section__action-link {padding-right: 20px;}"
+      ],
+      "settings": {
+        "collection": "cyber-week-doorbusters",
+        "title": "check out this collection",
+        "eyebrows": "",
+        "text": "",
+        "mobile_text": "",
+        "mobile_top_text": "",
+        "products_count": 10,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "View all",
+        "link_url": "shopify://collections/deals"
+      }
+    },
+    "upsell_MzMMKi": {
+      "type": "upsell",
+      "custom_css": [
+        "{margin-bottom: 40px;}"
+      ],
+      "name": "Hero Split Banner",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 40,
+        "first_col_width": "55",
+        "show_product_cards": true,
+        "bg_image": "shopify://shop_images/Frame_1000008678_1.png",
+        "bg_fallback": "#111111",
+        "bg_position": "center center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "heading": "NOT SURE WHICH KIT FITS? WE'LL MATCH IT FOR YOU.",
+        "heading_color": "#ffffff",
+        "description": "Tell us your sport, your size, and your budget. We'll put together a complete matching kit from brands you actually want to wear.",
+        "description_color": "#cccccc",
+        "btn1_label": "FIND THE PERFECT KIT",
+        "btn1_url": "",
+        "btn1_bg": "#d15327",
+        "btn1_text": "#ffffff",
+        "btn2_label": "BROWSE CAMSO DEALS",
+        "btn2_url": "",
+        "btn2_bg": "rgba(0,0,0,0)",
+        "btn2_border": "#ffffff",
+        "btn2_text": "#ffffff",
+        "p1_title": "Camso 4S1 UTV Track System",
+        "p1_url": "",
+        "p1_review_score": "5.0",
+        "p1_review_count": "37",
+        "p1_price": "$6,599",
+        "p2_title": "Camso X4S ATV/UTV Track Kit",
+        "p2_url": "",
+        "p2_review_score": "5.0",
+        "p2_review_count": "37",
+        "p2_price": "$5,049"
+      }
+    },
+    "testimonial_WEGf8d": {
+      "type": "testimonial",
+      "blocks": {
+        "testimonial_JL7zLy": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "Ordered the Fly Racing F-16 combo. Jersey and pants matched perfectly straight out of the box, shipped in 2 days. Wore them on the track Saturday. This is the easiest gear purchase I've ever made.",
+            "name": "Gregory Cliff",
+            "role": "Motocross Rider · Arizona"
+          }
+        },
+        "testimonial_K7YnWe": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "I was nervous about sizing — gear is expensive and I didn't want to be stuck with the wrong fit. The size guide was actually accurate. Returned nothing. Best online gear shop I've used in 8 years of riding.",
+            "name": "Sara M.",
+            "role": "Trail Rider · Oregon"
+          }
+        },
+        "testimonial_MfVNjg": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "Ordered my snowmobile kit — FXR jacket, bibs, and a 509 helmet. All matched perfectly, all arrived in 3 days before the season started. The family-owned vibe is real. Got a handwritten note in the box. That doesn't happen with Amazon.",
+            "name": "Tyler B.",
+            "role": "Snowmobile Rider · Montana"
+          }
+        },
+        "testimonial_cTXT6q": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "Best gear shop I've found online. Prices are fair and the selection is massive. Will be coming back every season.",
+            "name": "Mike R.",
+            "role": "Enduro Rider · Colorado"
+          }
+        },
+        "testimonial_QLazUq": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "Shipped faster than expected and packaged really well. The jersey fits true to size and looks even better in person.",
+            "name": "Jess T.",
+            "role": "Off-Road Rider · Texas"
+          }
+        },
+        "testimonial_z6hCWN": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "Customer service was super helpful when I had a question about compatibility. Ended up with exactly what I needed.",
+            "name": "Dan K.",
+            "role": "ATV Rider · Nevada"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_JL7zLy",
+        "testimonial_K7YnWe",
+        "testimonial_MfVNjg",
+        "testimonial_cTXT6q",
+        "testimonial_QLazUq",
+        "testimonial_z6hCWN"
+      ],
+      "name": "Testimonials Slider",
+      "settings": {
+        "heading_highlight": "50,000+",
+        "heading_main": "RIDERS CAN'T BE WRONG",
+        "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "section_bg_image": "shopify://shop_images/Frame_1000008678.png",
+        "section_bg_fallback": "#0d0d0d",
+        "section_bg_position": "center center",
+        "section_bg_overlay": 50,
+        "section_bg_overlay_color": "#000000",
+        "heading_highlight_color": "#eb891b",
+        "heading_main_color": "#ffffff",
+        "subheading_color": "#b3b3b3",
+        "card_bg": "#ffffff",
+        "card_quote_color": "#1a1a1a",
+        "card_name_color": "#1a1a1a",
+        "card_role_color": "#888888",
+        "avatar_bg": "#eb891b",
+        "dot_active_color": "#d15327",
+        "dot_border_color": "#ffffff"
+      }
+    },
+    "custom_blog_section_X8pwUK": {
+      "type": "custom-blog-section",
+      "name": "Blog Grid Section",
+      "settings": {
+        "heading": "GEAR GUIDES. BUYING ADVICE. STRAIGHT FROM THE TRACK.",
+        "blog_handle": "utv-riding-guides",
+        "posts_count": 4,
+        "read_more_text": "READ MORE",
+        "accent_color": "#d15327",
+        "bg_color": "#ffffff",
+        "text_color": "#111111",
+        "excerpt_color": "#555555"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "custom_hero_banner_rzyta8",
+    "shop_by_sports_j97drm",
+    "1761704018a1bbd483",
+    "featured-collection",
+    "custom_logo_6fE8dB",
+    "featured_collection_YNjVh8",
+    "upsell_neAKL3",
+    "featured_collection_MH7qcx",
+    "upsell_MzMMKi",
+    "testimonial_WEGf8d",
+    "custom_blog_section_X8pwUK"
+  ]
+}
