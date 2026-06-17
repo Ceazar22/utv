@@ -305,33 +305,6 @@
         },
         "footer": {
           "type": "footer",
-          "blocks": {
-            "footer-0": {
-              "type": "text",
-              "settings": {
-                "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
-              }
-            },
-            "footer-1": {
-              "type": "links",
-              "settings": {
-                "menu": "footer"
-              }
-            },
-            "footer-2": {
-              "type": "newsletter",
-              "settings": {
-                "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
-              }
-            }
-          },
-          "block_order": [
-            "footer-0",
-            "footer-1",
-            "footer-2"
-          ],
           "settings": {
             "show_social_media": true,
             "show_payment_icons": true
@@ -430,33 +403,6 @@
         },
         "footer": {
           "type": "footer",
-          "blocks": {
-            "footer-0": {
-              "type": "text",
-              "settings": {
-                "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
-              }
-            },
-            "footer-1": {
-              "type": "links",
-              "settings": {
-                "menu": "footer"
-              }
-            },
-            "footer-2": {
-              "type": "newsletter",
-              "settings": {
-                "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
-              }
-            }
-          },
-          "block_order": [
-            "footer-0",
-            "footer-1",
-            "footer-2"
-          ],
           "settings": {
             "show_social_media": true,
             "show_payment_icons": true
@@ -568,33 +514,6 @@
         },
         "footer": {
           "type": "footer",
-          "blocks": {
-            "footer-0": {
-              "type": "text",
-              "settings": {
-                "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
-              }
-            },
-            "footer-1": {
-              "type": "links",
-              "settings": {
-                "menu": "footer"
-              }
-            },
-            "footer-2": {
-              "type": "newsletter",
-              "settings": {
-                "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
-              }
-            }
-          },
-          "block_order": [
-            "footer-0",
-            "footer-1",
-            "footer-2"
-          ],
           "settings": {
             "show_social_media": true,
             "show_payment_icons": true
